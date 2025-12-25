@@ -24,3 +24,9 @@ Install dependencies using the provided `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+## Disclaimer
+
+This repository contains original solutions authored by the repository owner. Problem statements are not included and remain the intellectual property of StrataScratch. 
+Solutions are provided for educational purposes only.
