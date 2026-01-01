@@ -6,4 +6,5 @@ SQL solutions for StrataScratch coding questions.
 |:------:|:------|:------|:----------:|:--------:|
 |  2002  | Metlife | [Submission Types](https://platform.stratascratch.com/coding/2002-submission-types)| Easy | [Link](./2002.sql/) |\
 |  2017 | Ring Central | [Paid Users In April 2020](https://platform.stratascratch.com/coding/2017-paid-users-in-april-2020)| Easy | [Link](./2017.sql/) |
+|  9615 | Airbnb | [Solo Apartment Search](https://platform.stratascratch.com/coding/9615-find-out-search-details-for-apartments-designed-for-a-sole-person-stay)| Easy | [Link](./9615.sql/) |
 |  10087  | Meta | [Find all posts which were reacted to with a heart](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart)| Easy | [Link](./10087.sql/) |
