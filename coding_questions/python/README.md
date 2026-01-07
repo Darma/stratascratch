@@ -9,4 +9,5 @@ Python (Pandas/Polars) solutions for StrataScratch coding questions.
 |  2013  | Postmates | [Customer Average Orders](https://platform.stratascratch.com/coding/2013-customer-average-orders)| Easy | [Link](./2013.ipynb/) |
 |  2160  | Capital One | [Oregon's Prior Month's Sales](https://platform.stratascratch.com/coding/2160-oregons-prior-months-sales)| Easy | [Link](./2160.ipynb/) |
 |  9602  | Tripadvisor | [Dirty Hotel Rooms](https://platform.stratascratch.com/coding/9602-dirty-hotel-rooms)| Easy | [Link](./9602.ipynb/) |
+|  9604  | Tripadvisor | [Date Formatting](https://platform.stratascratch.com/coding/9604-date-formatting)| Easy | [Link](./9604.ipynb/) |
 |  9618  | AirBnB | [Find searches for Los Angeles neighborhoods](https://platform.stratascratch.com/coding/9618-find-distinct-searches-for-los-angeles-neighborhoods)| Easy | [Link](./9618.ipynb/) |
